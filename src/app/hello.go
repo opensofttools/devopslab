@@ -16,7 +16,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	log.Print("Say something!")
 	fmt.Fprintf(w, "%s\n", say("BLUE-IBM!!!!!!"))
 	fmt.Fprintf(w, "%s\n", say("GREN-IBM!!!!!!"))
-	fmt.Fprintf(w, "%s\n", say("test email"))
+	fmt.Fprintf(w, "%s\n", say("retest email"))
 }
 
 func main() {

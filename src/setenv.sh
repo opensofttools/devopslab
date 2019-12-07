@@ -1,8 +1,8 @@
-export GITACCOUNT=
+export GITACCOUNT=kirin_13
 
 export MYCLUSTER=
 export KUBECONFIG=
 
 export NAMESPACE=
-export EMAIL=
+export EMAIL=kirin13@163.com
 export INGRESS=
